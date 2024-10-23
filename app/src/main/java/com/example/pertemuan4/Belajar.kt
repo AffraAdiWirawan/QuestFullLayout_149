@@ -62,6 +62,10 @@ fun Layout (
             Judul = "Nomor HP",
             Isinya = "09812790182"
         )
+        DetailMhs(
+            Judul = "Fakultas",
+            Isinya = "Tehnik"
+        )
     }
 }
 
